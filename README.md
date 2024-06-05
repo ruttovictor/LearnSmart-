@@ -17,3 +17,22 @@
 - Recognized HTML's foundational role in creating web pages.
 - Emphasized the need for well-structured and semantic HTML for better accessibility and SEO.
 - Identified the need for consistent practice to master HTML skills and create efficient web content.
+
+## Week 2
+
+#### Learning Activities & Resources
+- Customized Joomla templates for my startup.
+- Read through Joomla's customization guide.
+
+
+#### Estimated Hours
+5 hours
+
+#### Content Insights
+- Modified template settings to match startup branding.
+- Changed colors, fonts, and layout for a unique site appearance.
+
+#### Career/Employability/Learning Insights
+
+- Enhanced web design skills by customizing Joomla templates.
+- Gained experience valuable for web development and design roles.
