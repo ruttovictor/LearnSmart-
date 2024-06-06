@@ -22,15 +22,20 @@
 
 #### Learning Activities & Resources
 
-_[Youtube Tutorial 1](https://www.youtube.com/watch?v=HhxfeJarFsA&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP))_ \
+_[Youtube Tutorial 1](https://www.youtube.com/watch?v=HhxfeJarFsA&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP)_ \
 _[Youtube Tutorial 2](https://www.youtube.com/watch?v=nbtb8Ax4Mpc&pp=ygUYam9vbWxhIGJlZ2lubmVyIHR1dG9yaWFs)_
 
-- **Customized Joomla templates for my startup** \
-   I focused on altering the template to reflect learn smart startup's branding.
-- **Joomla Template Customization Guide** \
-   I followed a detailed guide on customizing Joomla templates to understand advanced customization options.
-- **Community Forums** \
-   I engaged in discussions on community forums such as stackoverflow to seek advice and troubleshoot customization issues.
+- **Customized Joomla Templates for My Startup**
+  - I dedicated significant time to customizing Joomla templates to align with Learn Smart Startup's branding. This involved altering the color scheme, typography, and layout to match our brand's identity. I experimented with different design elements to create a cohesive and visually appealing website that accurately represents our startup.
+   - In addition to aesthetic changes, I also worked on functional aspects such as improving navigation. This process required a combination of HTML and CSS which I gained through the tutorials and additional research.
+
+- **Joomla Template Customization Guide**
+  - I followed a detailed guide on Joomla template customization, which provided in-depth instructions on advanced customization options. This guide covered topics such as creating and managing template styles, using custom HTML modules, and implementing dynamic content features.
+   - The guide also included troubleshooting tips and best practices for maintaining template updates without losing customizations. This was particularly useful for ensuring that my customizations would remain intact even after Joomla or template updates.
+
+- **Community Forums**
+  - Engaging with community forums such as StackOverflow proved invaluable for troubleshooting and seeking advice. I participated in discussions, asked questions about specific customization challenges I faced, and received helpful responses from experienced Joomla developers.
+  - The forums also provided a platform to share my progress, receive feedback, and learn from others' experiences. This collaborative approach not only helped me resolve issues more efficiently but also expanded my understanding of Joomla and web development in general.
 
 #### Estimated Hours
 - Total Hours: 5 hours
