@@ -22,7 +22,7 @@
 
 #### Learning Activities & Resources
 
-_[Youtube Tutorial 1](https://docs.joomla.org/](https://www.youtube.com/watch?v=HhxfeJarFsA&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP))_ \
+_[Youtube Tutorial 1](https://www.youtube.com/watch?v=HhxfeJarFsA&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP))_ \
 _[Youtube Tutorial 2](https://www.youtube.com/watch?v=nbtb8Ax4Mpc&pp=ygUYam9vbWxhIGJlZ2lubmVyIHR1dG9yaWFs)_
 
 - **Customized Joomla templates for my startup** \
