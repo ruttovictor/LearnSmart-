@@ -55,4 +55,64 @@ _[Youtube Tutorial 2](https://www.youtube.com/watch?v=nbtb8Ax4Mpc&pp=ygUYam9vbWx
    The process of refining the website's design emphasized the importance of attention to detail in web development. Ensuring that the design is both functional and aesthetically pleasing is critical for user satisfaction.
 - **Community Engagement** \
    Building connections with other professionals can lead to collaborative opportunities and shared 
-   knowledge in the future. Participating in Joomla forums provided practical insights and solutions, showing the value of community support and networking in professional growth. 
+   knowledge in the future. Participating in Joomla forums provided practical insights and solutions, showing the value of community support and networking in professional growth.
+
+
+## Week 3
+
+### Learning Activities & Resources
+
+This week, I dedicated my efforts to two main activities: setting up a WordPress site and participating in group formation interviews. Both tasks provided me with valuable learning experiences and insights.
+
+To support my learning, I utilized the following resources:
+
+- [WordPress Official Documentation](https://wordpress.org/support/article/how-to-install-wordpress/): This resource was instrumental in guiding me through the initial setup and configuration of WordPress. It provided comprehensive instructions on everything from installation to customization.
+- [How to Install WordPress Locally using XAMPP](https://www.youtube.com/watch?v=h6DEDm7C37A): This video tutorial offered a step-by-step guide to installing WordPress locally using XAMPP. It was particularly helpful in visualizing the process and understanding the practical aspects of the installation.
+
+#### Estimated Hours: 6 hours
+
+The tasks included:
+- 3 hours on setting up and configuring the WordPress site.
+- 1 hour on researching and watching tutorials to deepen my understanding.
+- 2 hours on conducting and reflecting on group formation interviews.
+
+### Content Insights
+
+Setting up the WordPress site was an enlightening and practical experience that provided several key insights:
+
+- **WordPress Installation**
+
+I learned the detailed steps required to install WordPress locally using XAMPP, including how to create a database, extract WordPress files, and configure the wp-config.php file. This process reinforced my understanding of web server management and database connectivity.
+- **Themes and Plugins**
+
+I gained a foundational understanding of how to install and customize themes and plugins within WordPress. This knowledge is crucial for tailoring the site's appearance and functionality to meet specific needs. I explored different themes and experimented with various plugins to enhance site features.
+- **Content Management**
+
+I familiarized myself with the WordPress dashboard, learning how to create and manage pages and posts. This experience was vital in understanding the workflow of content creation, organization, and publication within a CMS.
+
+### Career/Employability/Learning Insights
+
+#### WordPress CMS
+
+- **Customization and Flexibility**
+
+The ability to easily customize themes and plugins in WordPress stands out as a significant advantage for any web developer. This skill is highly valued in the industry as it enables developers to quickly adapt to different project requirements and deliver tailored solutions. Enhancing my proficiency in WordPress customization undoubtedly boosts my employability.
+
+- **Troubleshooting Skills**
+
+Throughout the installation and setup process, I encountered several challenges that required troubleshooting. Resolving these issues improved my problem-solving skills, which are essential for any technical role. The experience taught me to approach problems methodically and seek out resources to aid in resolution.
+
+#### Group Formation Interviews
+- **Effective Communication**
+
+Conducting one-minute interviews with classmates helped me refine my questioning techniques and improve my ability to communicate effectively. Effective communication is critical for teamwork and collaboration in any professional setting. This exercise highlighted the importance of clear, concise, and purposeful questions.
+- **Assessing Compatibility**
+
+ Learning to assess the compatibility of potential group members based on their working styles, availability, and expectations was a valuable skill. This experience will aid in forming efficient and cohesive teams for future projects. Understanding these dynamics is crucial for selecting team members who will work well together and complement each other’s strengths.
+
+- **Documenting Practice**
+
+ Documenting my findings and reflecting on the interview process provided deeper insights into group dynamics. This practice of self-reflection is important for continuous improvement and personal growth. Reflecting on what worked well and what could be improved helps in developing strategies for better team collaboration in the future.
+
+
+
