@@ -114,5 +114,62 @@ Conducting one-minute interviews with classmates helped me refine my questioning
 
  Documenting my findings and reflecting on the interview process provided deeper insights into group dynamics. This practice of self-reflection is important for continuous improvement and personal growth. Reflecting on what worked well and what could be improved helps in developing strategies for better team collaboration in the future.
 
+## Week 4 - Local Development & Deployment
+
+### Learning Activities & Resources
+
+This week, I focused on setting up a local development environment and deploying a dynamic site with a database using the LAMP stack (Linux, Apache, MySQL, PHP).
+
+### Learning Resources
+
+- [W3Schools PHP MySQL Connect](https://www.w3schools.com/php/php_mysql_connect.asp)
+- [Official MySQL Documentation](https://dev.mysql.com/doc/)
+- [Apache HTTP Server Documentation](https://httpd.apache.org/docs/)
+
+## Estimated Hours
+
+I spent approximately 6 hours learning and setting up the local development environment and deploying the site.
+
+## Content Insights
+
+Setting up the LAMP stack provided a comprehensive understanding of the core components needed for dynamic web development. Here are some key insights:
+
+1. **Apache Server Configuration**
+
+   Understanding how to configure the Apache server was crucial. It included setting up virtual hosts, configuring `httpd.conf`, and managing server permissions.
+
+2. **MySQL Database Management**
+
+   Learning how to create and manage databases in MySQL was essential. This included creating a database, setting up users, and understanding the importance of database security.
+
+3. **PHP Integration**
+   
+   PHP's role as a server-side scripting language to interact with the database and generate dynamic content was clearer. Variables in PHP start with a `$`, and its syntax is somewhat similar to Java, which made it easier for me to pick up.
+
+4. **Deployment Process**
+
+   Deploying the local site to a production server involved transferring files using SCP, setting up the environment on the server, and ensuring that the server configuration matched the local setup. This reinforced the importance of consistency between development and production environments.
+
+## Career/Employability/Learning Insights
+
+1. **Hands-On Practice**
+
+   The process of setting up and deploying a web application from scratch significantly improved my practical skills. It's one thing to read about web development, but actually implementing it provided deeper learning.
+
+2. **Error Troubleshooting**
+
+   I encountered several errors during the setup process, such as permission issues and misconfigurations. Resolving these taught me troubleshooting skills that are invaluable in any IT job.
+
+3. **Importance of Documentation**
+
+   Properly understanding and utilizing documentation from Apache, MySQL, and PHP helped me resolve issues and configure my environment correctly. This emphasizes the need for strong research and documentation skills in a professional setting.
+
+4. **Future Applications**
+
+   This exercise highlighted the importance of having a robust local development environment for testing before deployment. In a real-world scenario, this minimizes downtime and bugs in the production environment, making me more prepared for industry practices.
+
+5. **Learning Strategy**
+
+   I found that alternating between watching tutorials and hands-on practice kept me engaged and helped reinforce the concepts. This iterative learning process is something I plan to apply in future learning activities to enhance retention and understanding.
 
 
