@@ -172,7 +172,7 @@ Setting up the LAMP stack provided a comprehensive understanding of the core com
 
    I found that alternating between watching tutorials and hands-on practice kept me engaged and helped reinforce the concepts. This iterative learning process is something I plan to apply in future learning activities to enhance retention and understanding.
 
-# Week 5 
+## Week 5 
 
 ### Learning Activities & Resources
 
