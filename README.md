@@ -172,4 +172,47 @@ Setting up the LAMP stack provided a comprehensive understanding of the core com
 
    I found that alternating between watching tutorials and hands-on practice kept me engaged and helped reinforce the concepts. This iterative learning process is something I plan to apply in future learning activities to enhance retention and understanding.
 
+# Week 5 
+
+### Learning Activities & Resources
+
+### Practical Assignment: Child Theme Creation
+
+#### Customizations Made
+
+1. Changed the background color.
+2. Added transitions.
+2. Customized the header layout.
+3. Modified the font styles.
+4. Added box shadows.
+5. Implemented custom CSS for specific elements.
+
+
+To create the child theme, I followed the official [WordPress Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes/), which involved:
+
+- Setting up the child theme folder.
+- Creating a `style.css` file.
+- Developing a `functions.php` file to enqueue the parent and child theme stylesheets.
+
+### WordPress Developer Documentation
+
+### Estimated Hours: 
+
+6 hours
+
+### Content Insights
+
+- Creating a child theme involves setting up a new folder within the themes directory, creating a `style.css` file that references the parent theme, and a `functions.php` file to enqueue the parent and child theme stylesheets.
+
+- Making specific visual changes using CSS, such as changing the background color and updating font styles, can significantly alter the appearance of the site without modifying the parent theme.
+
+- It's important to enqueue styles in `functions.php` to ensure the child theme correctly inherits the parent theme’s styles while allowing for customizations.
+
+### Career/Employability/Learning Insights:
+
+- Creating a child theme provided hands-on experience with WordPress theme development, a valuable skill for web development roles. This task reinforced my understanding of how themes work and how to customize them effectively.
+
+- Writing a LinkedIn post about a lesson learned helped me articulate my learning experiences and share them with a professional audience. This activity also highlighted the importance of building an online presence and engaging with the professional community.
+
+- This week’s activities emphasized the value of combining practical tasks with documentation and reflection. This approach helps solidify knowledge and prepares me for real-world applications where documentation and communication are crucial.
 
