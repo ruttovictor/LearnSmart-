@@ -215,4 +215,24 @@ To create the child theme, I followed the official [WordPress Documentation](htt
 - Writing a LinkedIn post about a lesson learned helped me articulate my learning experiences and share them with a professional audience. This activity also highlighted the importance of building an online presence and engaging with the professional community.
 
 - This week’s activities emphasized the value of combining practical tasks with documentation and reflection. This approach helps solidify knowledge and prepares me for real-world applications where documentation and communication are crucial.
+# Week 7
 
+## Learning Activities & Resources
+- **PHP Manual**: Read sections on basic syntax, loops, and functions from the official PHP documentation [PHP Manual](https://www.php.net/manual/en/)
+- **YouTube Tutorials**: [YouTube Tutorial](https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
+- **Online Aarticles on PHP development.**
+## Estimated Hours
+
+5 hours.
+
+## Content Insights
+- **Echoing HTML**: I understood the importance of embedding PHP within HTML to dynamically generate web pages. The `echo` function can be used to output HTML elements, making the content generation more dynamic and flexible.
+- **If/Else Statements**: These are crucial for decision-making in PHP. I used these statements to validate user input and control the flow of the program based on conditions.
+- **Loops (for, while, foreach)**: I learned that loops are essential for handling repetitive tasks, such as iterating through arrays. The `foreach` loop was particularly useful for processing arrays of tour details.
+- **Functions with Parameters**: Functions modularize the code and enhance reusability. I created functions to retrieve and display tour information, which simplified the main script and made it more readable.
+- **Include**: Including common header and footer files in multiple pages demonstrated the concept of reusability and maintainability in web development.
+
+## Career/Employability/Learning Insights
+- **Content Management Skills**: Understanding PHP fundamentals and being able to build a basic website from scratch enhances my skill set, making me more versatile in web development roles.
+- **Problem-Solving**: The process of debugging and fixing errors in the code improved my problem-solving skills and persistence.
+- **Learning Approach**: I found that alternating between watching tutorials and hands-on coding helps in retaining information and applying it effectively. This approach keeps me engaged and facilitates practical understanding.
