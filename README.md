@@ -236,3 +236,48 @@ To create the child theme, I followed the official [WordPress Documentation](htt
 - **Content Management Skills**: Understanding PHP fundamentals and being able to build a basic website from scratch enhances my skill set, making me more versatile in web development roles.
 - **Problem-Solving**: The process of debugging and fixing errors in the code improved my problem-solving skills and persistence.
 - **Learning Approach**: I found that alternating between watching tutorials and hands-on coding helps in retaining information and applying it effectively. This approach keeps me engaged and facilitates practical understanding.
+- 
+# Week 8
+
+## 1. Observing Behaviour
+
+This trimester, the class CP3402 has leaned heavily towards web development, CMS platforms, and collaborative tools like GitHub. Code review is part of software development within the industry, where peers will view each other's code for quality and knowledge transfer. From what I have seen, though, we really haven't done much formal code reviewing within our teams.
+
+## 2. Formulate a Hypothesis
+
+I hypothesize that, with regular reviews of code in our team, the quality of projects delivered will be higher, and individually it will help in learning due to the interaction with different styles and solutions to various problems.
+
+## 3. Make a Prediction
+
+If my hypothesis is correct, I expect that our code will have fewer defects and be of higher quality. In addition, through feedback, best practices are understood and coding improved by team members who learn from each other.
+
+## 4. Running an Experiment
+
+### Experiment Design:
+
+In order to test my hypothesis, I suggested to the team that a code review process be implemented for one week.
+
+### Procedure:
+
+- **Preparation:** Each member of our team was independently developing one feature or section of our project.
+- **Submission:** We all committed our code into a shared repository in GitHub at the end of the week.
+- **Code Review:** Everyone reviewed one other person’s code, providing suggestions on how to improve, find bugs, and give advice on best practices.
+- **Revision:** The authors revised their code according to the feedback and resubmitted an improved version into the repository.
+
+### Results:
+
+- **Quality Improvement:** Initial code submissions were of quite low quality, having quite a number of bugs and areas where best practices were not followed. After the review and revision process, the quality became much better with much fewer bugs and adherence to coding standards.
+- **Learning Outcomes:** Team members reported learning new techniques and gaining insights about better coding practices in the process of both giving and receiving feedback.
+
+### Analysis:
+
+The code review process was very effective. The quality of our code improved, and team members gained valuable insights. This supports my hypothesis that regular code reviews improve the quality of the project and the learning curve of individuals.
+
+## 5. Learning Insights
+
+This experiment provided several key insights:
+
+- **Better Code Quality:** It ensures that errors are captured early enough and that best practices are applied, thus leading to the development of quality code.
+- **Improved Learning:** The review of peer developer code exposes team members to a number of different coding styles and solutions that enrich knowledge and ability.
+- **Improved Collaboration:** The feedback loop of code review helps in building a collaborative atmosphere where members can learn from each other and collaboratively improve.
+
