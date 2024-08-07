@@ -281,3 +281,37 @@ This experiment provided several key insights:
 - **Improved Learning:** The review of peer developer code exposes team members to a number of different coding styles and solutions that enrich knowledge and ability.
 - **Improved Collaboration:** The feedback loop of code review helps in building a collaborative atmosphere where members can learn from each other and collaboratively improve.
 
+# Week 9 - Prac 9: Sass and Gulp Automation
+
+## Learning Activities & Resources
+
+- **Viewed Tutorials on Gulp and Sass:**
+  - [Gulp.js Official Documentation](https://gulpjs.com/docs/en/getting-started/quick-start)
+  - [Sass Basics by Sass](https://sass-lang.com/guide)
+  - [Setting Up Gulp with Sass Tutorial on YouTube](https://www.youtube.com/watch?v=u7Ud-kxG10A&pp=ygURc2FzcyBpbnN0YWxrYXRpb24%3D)
+    
+- **Read Articles on CSS Grid and Flexbox:**
+  
+
+## Estimated Hours
+
+ **7 hours:** 
+
+## Content Insights
+
+Setting up Gulp to automate the compilation of Sass into CSS saved me a lot of time in my workflow. With Gulp, I learned task management for the compilation of Sass, watching changes in files, and automatic refreshing of the CSS. All this has enhanced my knowledge of build tools and task automation—skills that are crucial in modern web development.
+
+I used CSS Grid and Flexbox to create a responsive, aesthetically pleasing layout for the upcoming events section. The grid layout for the event cards made it easy to arrange and align elements. Flexbox was then used for centering and spacing, resulting in a clean and organized design.
+
+Importing and applying the Poppins font modernized and polished the website. I learned the importance of consistent typography and its impact on the overall design and user experience of a website.
+
+## Career/Employability/Learning Insights
+
+Setting up Gulp for Sass automation has provided hands-on experience relevant to working environments. Task automation is a valuable skill that can significantly increase productivity and efficiency, making it highly beneficial for any web development role.
+
+Learning modern CSS techniques, such as using CSS Grid and Flexbox, is crucial for creating visually appealing and responsive websites. These are in-demand skills in the industry, essential for designing user-friendly interfaces.
+
+Understanding the role of typography and the implementation of web fonts like Poppins has emphasized its importance in web design. This knowledge will be valuable in creating cohesive and professional projects in the future.
+
+Overall, this practical experience has equipped me with skills in automating CSS tasks, designing responsive layouts, and applying modern web design practices. These competencies will be highly useful in my future career as a web developer, where efficiency, design, and functionality are key to success.
+
