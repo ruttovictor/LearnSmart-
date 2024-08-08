@@ -241,7 +241,7 @@ To create the child theme, I followed the official [WordPress Documentation](htt
 
 ## 1. Observing Behaviour
 
-This trimester, the class CP3402 has leaned heavily towards web development, CMS platforms, and collaborative tools like GitHub. Code review is part of software development within the industry, where peers will view each other's code for quality and knowledge transfer. From what I have seen, though, we really haven't done much formal code reviewing within our teams.
+This trimester, the class has leaned heavily towards web development, CMS platforms, and collaborative tools like GitHub. Code review is part of software development within the industry, where peers will view each other's code for quality and knowledge transfer. From what I have seen, though, we really haven't done much formal code reviewing within our teams.
 
 ## 2. Formulate a Hypothesis
 
